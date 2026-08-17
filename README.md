@@ -6,6 +6,9 @@ This project presents the **design, manufacturing, and implementation of a sprin
 
 The project was developed as a **Group 15 Mechanical Engineering project** under the guidance of **Prof. Virkeshwar Kumar** and **Mr. Rahul**.
 
+<img width="241" height="212" alt="image" src="https://github.com/user-attachments/assets/75340021-0626-4530-9d8c-4f7b8f57ba4a" />
+
+
 ---
 
 ## 🎯 Objectives
