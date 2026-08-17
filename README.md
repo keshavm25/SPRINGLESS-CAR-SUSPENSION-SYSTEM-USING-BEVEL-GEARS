@@ -4,8 +4,11 @@
 
 This project presents the **design, manufacturing, and implementation of a springless vehicle suspension system using bevel gears**. The system is designed to absorb shocks and maintain continuous wheel contact with the ground, preventing wheel lift during uneven-terrain operation.
 
-The project was developed as a **Group 15 Mechanical Engineering project** under the guidance of **Prof. Virkeshwar Kumar** and **Mr. Rahul**.
+Project Instructor **Prof. Virkeshwar Kumar**. 
 
+Project Guide **Mr. Rahul**.
+
+<p align="center">
 <img width="241" height="212" alt="image" src="https://github.com/user-attachments/assets/75340021-0626-4530-9d8c-4f7b8f57ba4a" />
 
 
