@@ -1,6 +1,6 @@
 # Springless Car Suspension System Using Bevel Gears
 
-## 📌 Project Overview TA-212
+## 📌 TA-212 Project
 
 This project presents the **design, manufacturing, and implementation of a springless vehicle suspension system using bevel gears**. The system is designed to absorb shocks and maintain continuous wheel contact with the ground, preventing wheel lift during uneven-terrain operation.
 
